@@ -6,7 +6,6 @@ import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.activity.viewModels
 import androidx.compose.runtime.collectAsState
-import androidx.compose.runtime.livedata.observeAsState
 import com.example.myapplication.ui.compose.UsersListComposable
 import com.example.myapplication.ui.theme.MyApplicationTheme
 import com.example.myapplication.ui.vm.UsersListViewModel
